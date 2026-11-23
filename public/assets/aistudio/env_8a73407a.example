@@ -1,0 +1,21 @@
+# GEMINI_API_KEY: Required for Gemini AI API calls.
+# AI Studio automatically injects this at runtime from user secrets.
+# Users configure this via the Secrets panel in the AI Studio UI.
+GEMINI_API_KEY="MY_GEMINI_API_KEY"
+
+# APP_URL: The URL where this applet is hosted.
+# AI Studio automatically injects this at runtime with the Cloud Run service URL.
+# Used for self-referential links, OAuth callbacks, and API endpoints.
+APP_URL="MY_APP_URL"
+
+# VITE_GOOGLE_MAPS_API_KEY: Provisioned Google Maps Platform API key.
+VITE_GOOGLE_MAPS_API_KEY="MY_GOOGLE_MAPS_API_KEY"
+
+# LINE_CHANNEL_ACCESS_TOKEN: LINE OA (@638kqwtv) Messaging API token for server-side mid -> displayName lookup.
+LINE_CHANNEL_ACCESS_TOKEN=""
+
+# LINE_CHANNEL_SECRET: Optional LINE OA Channel Secret for webhook signature verification.
+LINE_CHANNEL_SECRET=""
+
+# VITE_LINE_LIFF_ID: Optional LINE LIFF ID for automatic LINE in-app browser mid/profile detection.
+VITE_LINE_LIFF_ID=""

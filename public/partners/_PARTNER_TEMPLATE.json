@@ -1,0 +1,101 @@
+{
+  "comment": "ตัวอย่างข้อมูล 1 ชุดสำหรับนำไปวางต่อท้ายในอาเรย์ partners ของไฟล์ partners.json เพื่อเพิ่มพาร์ทเนอร์เจ้าที่ 4, 5 โดยไม่ต้องแก้โค้ดเว็บหลัก",
+  "availableThemes": [
+    "blue",
+    "orange",
+    "red",
+    "emerald",
+    "purple",
+    "amber",
+    "teal",
+    "indigo",
+    "rose",
+    "slate"
+  ],
+  "examplePartner": {
+    "key": "partner4",
+    "enabled": true,
+    "theme": "emerald",
+    "applyUrl": "/partners/partner4.html",
+    "claimLoginUrl": "/partners/partner4.html#login",
+    "openInNewTab": true,
+    "logoUrl": "/partners/partner4-logo.png",
+    "claimLoginInfo": {
+      "th": {
+        "title": "เข้าสู่ระบบพาร์ทเนอร์ 4 เพื่อดูกรมธรรม์และแจ้งเคลม",
+        "subtitle": "ยืนยันตัวตนด้วยเบอร์มือถือและรหัส OTP 6 หลัก",
+        "ctaLabel": "เข้าสู่ระบบ Partner 4",
+        "otpNote": "บังคับขอและยืนยันรหัส OTP 6 หลักทาง SMS ทุกครั้ง",
+        "requiredFields": [
+          "เบอร์มือถือที่ลงทะเบียน (10 หลัก)",
+          "เลขบัตรประชาชน 13 หลัก หรือ เลขสมาชิกพาร์ทเนอร์",
+          "รหัส OTP 6 หลักที่ส่งทาง SMS"
+        ]
+      }
+    },
+    "heroBadge": {
+      "th": "เฉพาะลูกค้าพาร์ทเนอร์",
+      "en": "Partner Exclusive"
+    },
+    "menu": {
+      "th": {
+        "label": "ชื่อพาร์ทเนอร์เจ้าที่ 4",
+        "sublabel": "สรุปสิทธิพิเศษสั้นๆ สำหรับแสดงในเมนู"
+      },
+      "en": {
+        "label": "Partner 4 Brand",
+        "sublabel": "Short campaign highlight for menu"
+      }
+    },
+    "locale": {
+      "th": {
+        "kicker": "PARTNER 4 × JAYMART INSURANCE",
+        "headlinePrimary": "พาดหัวหลักหน้าแลนดิ้ง",
+        "headlineSecondary": "พาดหัวรอง (ใส่หรือไม่ใส่ก็ได้)",
+        "offerTitle": "ชื่อข้อเสนอหลักสำหรับลูกค้าพาร์ทเนอร์",
+        "offerDurationOrPrice": "เริ่มต้น ฿99 / เดือน",
+        "offerNote": "คำอธิบายสั้นๆ ใต้ข้อเสนอหลัก",
+        "ctaRegister": "สมัครรับสิทธิ์เลย",
+        "ctaDetails": "ดูความคุ้มครองทั้งหมด",
+        "brandName": "PARTNER 4",
+        "highlights": [
+          {
+            "title": "จุดเด่นที่ 1",
+            "detail": "รายละเอียดจุดเด่นที่ 1"
+          },
+          {
+            "title": "จุดเด่นที่ 2",
+            "detail": "รายละเอียดจุดเด่นที่ 2"
+          },
+          {
+            "title": "จุดเด่นที่ 3",
+            "detail": "รายละเอียดจุดเด่นที่ 3"
+          }
+        ],
+        "introTitle": "ทำไมต้องสิทธิพิเศษนี้",
+        "introParagraphs": [
+          "ย่อหน้าแนะนำแคมเปญร่วมกับเจมาร์ท ประกันภัย"
+        ],
+        "coverageHeading": "รายละเอียดความคุ้มครอง",
+        "coverageSubheading": "สรุปผลประโยชน์ความคุ้มครองตามแผน",
+        "coverageItems": [
+          {
+            "title": "ความคุ้มครองรายการที่ 1",
+            "benefit": "สูงสุด 100,000 บาท",
+            "description": "คำอธิบายความคุ้มครอง"
+          }
+        ],
+        "coverageFootnote": "* เงื่อนไขเป็นไปตามกรมธรรม์ที่บริษัทกำหนด",
+        "qualificationsHeading": "คุณสมบัติผู้รับสิทธิ์",
+        "qualifications": [
+          "เป็นลูกค้าของพาร์ทเนอร์ตามเงื่อนไขแคมเปญ"
+        ],
+        "termsHeading": "ข้อกำหนดและเงื่อนไข",
+        "terms": [
+          "รับประกันภัยโดย บริษัท เจมาร์ท ประกันภัย จำกัด (มหาชน)"
+        ],
+        "footerOperator": "สิทธิพิเศษร่วมกับ Partner 4"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "partners": [
+    {
+      "key": "siamchai",
+      "enabled": true,
+      "theme": "blue",
+      "applyUrl": "/partners/siamchai.html",
+      "claimLoginUrl": "/partners/siamchai.html#login",
+      "openInNewTab": true,
+      "menu": {
+        "th": {
+          "label": "สยามชัย (Siamchai)",
+          "sublabel": "ลูกค้าผ่อนสยามชัย เพิ่มคุ้มครองในค่างวด +฿5/เดือน"
+        },
+        "en": {
+          "label": "Siamchai Service",
+          "sublabel": "Add protection directly in monthly installments from +฿5/mo"
+        }
+      }
+    },
+    {
+      "key": "rabbit",
+      "enabled": true,
+      "theme": "orange",
+      "applyUrl": "/partners/rabbit.html",
+      "claimLoginUrl": "/partners/rabbit.html#login",
+      "openInNewTab": true,
+      "menu": {
+        "th": {
+          "label": "แรบบิท (Rabbit Rewards)",
+          "sublabel": "ประกันคนทำงาน จ่ายด้วย 180 พอยต์ Rabbit หรือ ฿29/สัปดาห์"
+        },
+        "en": {
+          "label": "Rabbit Rewards",
+          "sublabel": "Worker protection payable with 180 Rabbit Points or ฿29/wk"
+        }
+      }
+    },
+    {
+      "key": "t1c",
+      "enabled": true,
+      "theme": "red",
+      "applyUrl": "/partners/t1c.html",
+      "claimLoginUrl": "/partners/t1c.html#login",
+      "openInNewTab": true,
+      "menu": {
+        "th": {
+          "label": "The 1 × Power Buy (T1C)",
+          "sublabel": "คุ้มครองมือถือ 1 ปี จอแตก-โดนน้ำ + รับคะแนน The 1 ×10"
+        },
+        "en": {
+          "label": "The 1 × Power Buy (T1C)",
+          "sublabel": "1-Year Mobile Shield (Screen & Liquid) + 10x The 1 Points"
+        }
+      }
+    }
+  ]
+}

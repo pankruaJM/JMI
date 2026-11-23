@@ -1,0 +1,6 @@
+{
+  "name": "Jaymart Insurance | Digital InsurTech",
+  "description": "บริษัท เจมาร์ท ประกันภัย จำกัด (มหาชน) — นวัตกรรมประกันภัยดิจิทัล ก้าวนำเทรนด์ประกันภัยยุคใหม่",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
